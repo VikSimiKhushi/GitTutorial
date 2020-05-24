@@ -1,0 +1,5 @@
+I have inised dir of static folder
+
+aGAIN CHANGE MADE IN SATIC FOLDER TEXT DOCUMENT
+
+For comapring i have made changes in newText.txt
